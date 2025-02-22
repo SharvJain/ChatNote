@@ -67,4 +67,6 @@ This is the video recorder area. Here you can record videos and replay them.
 
 This is the recorder area. Here you can record sounds, voices and conversations and replay them.
 
+Thank you for taking time to read this ReadMe.
+
 Thank You
