@@ -1,8 +1,8 @@
-# ChatNote
+# ChatNote : An Optimum App
 A 6 in 1 Optimal App
 
 ChatNote is an optimal app for using chatbots, creating or recording.Here are some of the sneak peeks from the app:-
-![WhatsApp Image 2025-02-10 at 16 15 22](https://github.com/user-attachments/assets/2fdc5045-f3a6-416d-beb5-4028a110aef8)
+![WhatsApp Image 2025-02-10 at 16 15 22](https://github.com/user-attachments/assets/2fdc5045-f3a6-416d-beb5-4028a110aef8|width=50)
 
 This is the Home Screen with many different options for formatting, designing, creating and getting a final result.
 
