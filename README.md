@@ -11,7 +11,8 @@ This is the Home Screen with many different options for formatting, designing, c
 
 This is the notes area where you can keep your notes.
 
-- ![WhatsApp Image 2025-02-10 at 16 15 11](https://github.com/user-attachments/assets/3fb47be5-03d8-436a-bea6-fb221050f017)
+- <img src = "WhatsApp Image 2025-02-10 at 16 15 11](https://github.com/user-attachments/assets/3fb47be5-03d8-436a-bea6-fb221050f017" height = "350px" width = "200px">
+
 
 - These are the different fonts available in the notes area. They include:-
 
