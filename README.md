@@ -2,7 +2,7 @@
 
 ©️
 
-A 6 in 1 Optimal App
+A 6 in 1 Optimal App..
 
 ChatNote is an optimal app for using chatbots, creating or recording.Here are some of the sneak peeks from the app:-
 
